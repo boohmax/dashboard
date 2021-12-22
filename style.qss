@@ -1,0 +1,21 @@
+QWidget {
+    background-color: #FFFFFF;
+}
+
+QPushButton {
+    background-color: #FFFFFF;
+    color: #000000;
+    border: 1px solid #7F7F7F;
+    border-radius: 4px;
+}
+
+QPushButton:hover {
+    background-color: #7F7F7F;
+}
+
+/* Color Theme Swatches in Hex */
+.Grey-and-Yellow-1-hex { color: #FFFFFF; }
+.Grey-and-Yellow-2-hex { color: #FBF37C; }
+.Grey-and-Yellow-3-hex { color: #7F7F7F; }
+.Grey-and-Yellow-4-hex { color: #58555A; }
+.Grey-and-Yellow-5-hex { color: #000000; }
